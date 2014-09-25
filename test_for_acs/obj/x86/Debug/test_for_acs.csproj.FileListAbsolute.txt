@@ -1,0 +1,24 @@
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\bin\Debug\test_for_acs.exe
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\bin\Debug\test_for_acs.pdb
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\MainWindow.baml
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\App.g.cs
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\test_for_acs_MarkupCompile.cache
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\test_for_acs.g.resources
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\test_for_acs.Properties.Resources.resources
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\test_for_acs.exe
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Debug\test_for_acs.pdb
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs.exe
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs.pdb
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\bin\Debug\test_for_acs.exe
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\bin\Debug\test_for_acs.pdb
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\MainWindow.baml
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\App.g.cs
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs_MarkupCompile.cache
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs.g.resources
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs.Properties.Resources.resources
+C:\Users\SOUR\Desktop\done it\Парсер валют (C#)\test_for_acs\obj\x86\Debug\test_for_acs.csproj.GenerateResource.Cache

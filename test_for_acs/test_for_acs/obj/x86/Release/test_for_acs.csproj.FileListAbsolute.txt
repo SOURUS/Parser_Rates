@@ -1,0 +1,13 @@
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\bin\Release\test_for_acs.exe
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\bin\Release\test_for_acs.pdb
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\MainWindow.baml
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\MainWindow.g.cs
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\App.g.cs
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\test_for_acs_MarkupCompile.cache
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\test_for_acs.g.resources
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\test_for_acs.Properties.Resources.resources
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\test_for_acs.exe
+C:\Users\SOUR\Desktop\для теста\test_for_acs\test_for_acs\obj\x86\Release\test_for_acs.pdb

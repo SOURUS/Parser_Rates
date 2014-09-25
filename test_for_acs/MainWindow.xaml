@@ -1,0 +1,11 @@
+﻿<Window x:Class="test_for_acs.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="347" Width="587">
+    <Grid>
+        <Label Height="28" HorizontalAlignment="Left" Margin="12,280,0,0" Name="label1" VerticalAlignment="Top" />
+        <Calendar Height="170" HorizontalAlignment="Left" Margin="12,12,0,0" Name="calendar1" VerticalAlignment="Top" Width="180" />
+        <DataGrid Height="271" HorizontalAlignment="Left" Margin="206,12,0,0" Name="dataGrid1" VerticalAlignment="Top" Width="347" />
+        <Button Content="Пошел" Height="30" HorizontalAlignment="Left" Margin="12,198,0,0" Name="button1" VerticalAlignment="Top" Width="87" Click="button1_Click" />
+    </Grid>
+</Window>
